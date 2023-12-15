@@ -4,7 +4,7 @@ about: Track a roadmap item in Radius
 title: "<ROADMAP ITEM TITLE>"
 assignees: ''
 labels: ["roadmap"]
-projects: ["radius-project/8"]
+projects: ["radius-project/projects/8"]
 ---
 
 ## Overview of roadmap item
