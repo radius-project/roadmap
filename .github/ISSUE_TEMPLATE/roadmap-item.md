@@ -14,7 +14,7 @@ projects: ["radius-project/8"]
 ## Related issues
 
 ```[tasklist]
-- [ ] 
+### Related issues
 ```
 
 ## Additional context
